@@ -1,31 +1,89 @@
-# Aplicación de Consola en JavaScript
+# modulo-4-ia-calculadora-js-consola
 
-## Descripción
+proyecto modulo 4
+📘 Proyecto: Calculadora JS por Consola
+📌 Descripción
 
-Este proyecto consiste en una aplicación en JavaScript que se ejecuta en la consola del navegador. Permite realizar operaciones matemáticas básicas utilizando estructuras fundamentales del lenguaje.
+Este proyecto consiste en una calculadora básica desarrollada en JavaScript que opera a través de la consola del navegador. Permite al usuario ingresar dos números y seleccionar una operación matemática para obtener un resultado.
 
-## Funcionalidades
+🎯 Objetivo
 
-- Solicita dos números al usuario mediante prompt().
-- Permite seleccionar una operación matemática.
-- Ejecuta operaciones usando funciones.
-- Implementa estructuras condicionales (if, switch).
-- Utiliza ciclos (for, while).
-- Maneja arreglos y objetos.
-- Guarda un historial de operaciones.
+Practicar:
 
-## Tecnologías utilizadas
+Uso de prompt
 
-- HTML5
-- JavaScript (ES6)
-- Consola del navegador
+Manipulación de datos numéricos
 
-## Cómo ejecutar
+Funciones
 
-1. Abrir el archivo index.html en el navegador.
-2. Abrir la consola con F12.
-3. Seguir las instrucciones en pantalla.
+Condicionales
 
-## Autor
+Manejo de eventos
 
-[Anita Alegria]
+Separación de responsabilidades en el código
+
+🧮 Funcionalidades
+
+La calculadora permite:
+
+Suma
+
+Resta
+
+Multiplicación
+
+División
+
+Validación básica de datos ingresados
+
+🛠 Tecnologías utilizadas
+
+HTML
+
+JavaScript
+
+Consola del navegador
+
+📌 2️⃣ Análisis del Proyecto
+
+🔎 Análisis Técnico
+
+El proyecto se estructura en funciones independientes que permiten una mejor organización y reutilización del código.
+
+📍 Estructura lógica
+
+Captura de datos mediante prompt
+
+Conversión de string a número
+
+Validación de datos
+
+Ejecución de la operación según selección
+
+Impresión del resultado en consola
+
+📍 Buenas prácticas aplicadas
+
+Separación en funciones pequeñas
+
+Uso de variables con nombres descriptivos
+
+Control de flujo con condicionales
+
+Manejo de errores básicos
+
+📍 Posibles mejoras futuras
+
+Interfaz gráfica en lugar de consola
+
+Validaciones más robustas
+
+Uso de switch en vez de múltiples if
+
+Manejo de errores más detallado
+
+Implementación con DOM
+
+✅ Conclusión
+
+Este proyecto permitió reforzar conceptos fundamentales de JavaScript como funciones, condicionales y manipulación de datos, estableciendo una base sólida para desarrollos más complejos con interacción en el DOM.
